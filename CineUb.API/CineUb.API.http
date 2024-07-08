@@ -1,0 +1,6 @@
+@CineUb.API_HostAddress = http://localhost:5265
+
+GET {{CineUb.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
